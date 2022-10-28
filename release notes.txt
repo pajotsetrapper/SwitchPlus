@@ -1,0 +1,11 @@
+Switch+ 0.0.1
+
+* First release
+
+Switch+ 0.0.2
+
+* Corrected memory leak in wxTimer
+
+Switch+ 0.0.3
+
+* Ported to PythonCard API > 0.7.3

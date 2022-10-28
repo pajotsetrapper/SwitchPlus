@@ -1,0 +1,1 @@
+py2exe setup.py > py2exe_build.txt
